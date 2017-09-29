@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15983" start="node6" appversion="5.2.2">
+  <panorama id="node6">
+    <input levelbiashidpi="0.400" levelingpitch="4.4" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start fov="62.0442" projection="4" pan="2.55043" tilt="1.91966"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="1" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="1136 Circle Drive Lake Wales, Florida 33853" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:11 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Front Patio" id="Point02" target="" description="" pan="-89.16" tilt="-18.05" url="{node8}"/>
+      <hotspot skinid="ht_node" title="Living Space" id="Point01" target="" description="" pan="-12.82" tilt="-3.64" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="0.400" levelingpitch="3.4" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="1.6" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="180">
+      <start fov="62.0442" projection="4" pan="138.153" tilt="-7.5169"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Front Patio" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:10 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Front Door" id="Point01" target="" description="" pan="177.81" tilt="-5.2" url="{node6}"/>
+      <hotspot skinid="ht_node" title="Living Space" id="Point02" target="" description="" pan="115.66" tilt="-9.17" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="0.400" levelingpitch="3" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="62.0442" projection="4" pan="-145.72" tilt="-8.70155"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Living Space" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:16 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Living Space 2" id="Point02" target="" description="" pan="-171.66" tilt="-32.53" url="{node5}"/>
+      <hotspot skinid="ht_node" title="Front Patio" id="Point01" target="" description="" pan="11.13" tilt="0.01" url="{node8}"/>
+      <hotspot skinid="ht_node" title="Front Door" id="Point03" target="" description="" pan="-17.66" tilt="0.01" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="0.400" levelingpitch="3.7" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="62.0442" projection="4" pan="111.552" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Living Space 2" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:17 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Living Space" id="Point01" target="" description="" pan="4.97" tilt="-20.32" url="{node12}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point03" target="" description="" pan="-81.68" tilt="-5.31" url="{node25}"/>
+      <hotspot skinid="ht_node" title="Dining Area" id="Point02" target="" description="" pan="106.6" tilt="-9.19" url="{node3}"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point04" target="" description="" pan="161.71" tilt="-7.53" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="0.400" levelingpitch="3.1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="62.0442" projection="4" pan="168.526" tilt="-1.47492"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Dining Area" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:18 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Kitchen" id="Point01" target="" description="" pan="-164.84" tilt="-7.28" url="{node9}"/>
+      <hotspot skinid="ht_node" title="Living Space 2" id="Point02" target="" description="" pan="5.41" tilt="-10.73" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="0.400" levelingpitch="3.7" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="62.0442" projection="4" pan="-153.112" tilt="-1.96569"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Kitchen" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:20 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Back Patio" id="Point02" target="" description="" pan="-71.17" tilt="1.04" url="{node1}"/>
+      <hotspot skinid="ht_node" title="Dining Area" id="Point01" target="" description="" pan="-37.9" tilt="2.66" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="0.400" levelingpitch="4.3" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0.2" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="62.0442" projection="4" pan="-57.6133" tilt="2.47553"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Back Patio" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Round View Tours &amp; Development" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:21 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Bedroom" id="Point01" target="" description="" pan="-40.26" tilt="-4.29" url="{node17}"/>
+      <hotspot skinid="ht_node" title="Kitchen" id="Point02" target="" description="" pan="74.81" tilt="-11.04" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="0.400" levelingpitch="5.7" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="180">
+      <start fov="75.5069" projection="4" pan="118.693" tilt="-3.13059"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 1 Hallway " copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:22 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point02" target="" description="" pan="1.13" tilt="-15.03" url="{node18}"/>
+      <hotspot skinid="ht_node" title="Office Space" id="Point01" target="" description="" pan="104.46" tilt="-20.74" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="0.400" levelingpitch="4.7" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.9" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Office Space" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:23 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point02" target="" description="" pan="-133.9" tilt="-18.4" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="0.400" levelingpitch="3.8" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.6" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="180">
+      <start fov="102.551" projection="4" pan="62.3112" tilt="-7.31399"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 1 Hallway " copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:25 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point01" target="" description="" pan="-175.86" tilt="-16.25" url="{node19}"/>
+      <hotspot skinid="ht_node" title="Wing 1 Bathroom" id="Point02" target="" description="" pan="2.88" tilt="-4" url="{node14}"/>
+      <hotspot skinid="ht_node" title="Wing 1 Bedroom" id="Point03" target="" description="" pan="68.95" tilt="-23.28" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="0.400" levelingpitch="3.5" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.8" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start fov="102.551" projection="4" pan="-0.431208" tilt="-8.66121"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 1 Bathroom" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:26 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point01" target="" description="" pan="92.59" tilt="-19.21" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="0.400" levelingpitch="4.2" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.8" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="102.551" projection="4" pan="-61.4241" tilt="3.63538"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 1 Bedroom" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:25 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 1 Hallway " id="Point01" target="" description="" pan="30.85" tilt="-7.86" url="{node18}"/>
+      <hotspot skinid="ht_node" title="Back Patio" id="Point02" target="" description="" pan="-169.26" tilt="-7.18" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="0.400" levelingpitch="5.4" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="1.3" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="292.5">
+      <start fov="102.551" projection="4" pan="-38.7576" tilt="3.36906"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Hallway" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:27 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Bathroom" id="Point02" target="" description="" pan="-50.35" tilt="-17.46" url="{node20}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point03" target="" description="" pan="-170.33" tilt="-16.04" url="{node23}"/>
+      <hotspot skinid="ht_node" title="Living Space 2" id="Point01" target="" description="" pan="124" tilt="-16.69" url="{node5}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point04" target="" description="" pan="8.92" tilt="-10.59" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="0.400" levelingpitch="4.4" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-0.4" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="292.5">
+      <start fov="102.551" projection="4" pan="-117.097" tilt="-3.51846"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Hallway" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:28 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Bedroom 1" id="Point01" target="" description="" pan="-174" tilt="-14.28" url="{node21}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Laundry" id="Point02" target="" description="" pan="-62.82" tilt="-18.49" url="{node26}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point03" target="" description="" pan="8.59" tilt="-18.83" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="0.400" levelingpitch="4.5" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="-1.1" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="292.5">
+      <start fov="102.551" projection="4" pan="137.844" tilt="4.40312"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Bedroom 1" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:29 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point01" target="" description="" pan="16.24" tilt="-13.85" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="0.400" levelingpitch="4.6" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0.3" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start fov="102.551" projection="4" pan="42.2017" tilt="7.74415"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Laundry" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:29 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point01" target="" description="" pan="-55.25" tilt="-13.01" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="0.400" levelingpitch="3.7" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0.5" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="292.5">
+      <start fov="102.551" projection="4" pan="-42.8301" tilt="-24.1991"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Bathroom" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:30 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point01" target="" description="" pan="103.62" tilt="-14.17" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="0.400" levelingpitch="3.3" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0.8" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start fov="102.551" projection="4" pan="-3.6042" tilt="1.02051"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Hallway" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:31 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point01" target="" description="" pan="-175.66" tilt="-18.21" url="{node23}"/>
+      <hotspot skinid="ht_node" title="Wing 2 Bedroom 2" id="Point02" target="" description="" pan="-0.23" tilt="-16.37" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="0.400" levelingpitch="3.5" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" leveltilesize="510" overlap="1" levelingroll="0.7" width="1344" levelbias="0.400">
+      <level preload="0" height="1344" width="1344" predecode="0"/>
+      <level preload="0" height="672" width="672" predecode="0"/>
+      <level preload="1" height="336" width="336" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="102.551" projection="4" pan="-66.1004" tilt="6.38071"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" fov="120" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata longitude="" title="Wing 2 Bedroom 2" copyright="2017" info="Contact Joan Jarvis @ (863) 676-7040" author="Prime Plus Realty" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" latitude="" customnodeid="" source="Prime Plus Real Estate" datetime="9/28/2017 3:32 PM"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textalpha="1" border="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" enabled="1" background="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot skinid="ht_node" title="Wing 2 Hallway" id="Point01" target="" description="" pan="-118.97" tilt="-5.45" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomout="0" blendcolor="0x000000" enabled="0" blendtime="1" zoomin="0" softedge="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" hideabout="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="0" simulatemass="1" lockedmouse="0" rubberband="0" contextprojections="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" lockedwheel="0"/>
+  </panorama>
+</tour>
