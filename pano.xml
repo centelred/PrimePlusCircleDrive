@@ -1,569 +1,569 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="15983" start="node6" appversion="5.2.2">
+<tour start="node6" appversion="5.2.2" apprev="15983">
   <panorama hideabout="1" id="node6">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-1.09089" overlap="1" height="1344" levelingpitch="1.7423" levelbiashidpi="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="1.7423" levelingroll="-1.09089" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="90" fovmode="0">
-      <start tilt="1.91966" projection="4" pan="2.55043" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fovpixel="1"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="2.55043" fov="62.0442" tilt="1.91966"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="1" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="1136 Circle Drive Lake Wales, Florida 33853" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:11 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:11 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="1136 Circle Drive Lake Wales, Florida 33853" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.71" url="{node8}" pan="-79.54" title="Front Patio" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-3.64" url="{node12}" pan="-12.82" title="Living Space" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-2.37" url="" pan="-32.18" title="Home Information" description="This home is located moments away from Lake Wailes Lake, Kawanis Park, and Historic Downtown Lake Wales.  It features original wood floors, 9 foot ceilings, and a private garden.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/leftfrontlandscape.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontcenter.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/garden.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/backyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;Call Joan Jarvis at Prime Plus Real Estate for more information at (863) 676-7040.&#xa;&#xa;See more photos of the property &lt;a href=&quot;http://www.primeplusrealestate.com/defaultlistings.x?IDX=0&amp;ListID=1033068&quot; target=&quot;_blank&quot;>HERE&lt;/a>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-79.54" description="" id="Point02" url="{node8}" target="" tilt="-1.71" title="Front Patio" skinid="ht_node"/>
+      <hotspot pan="-12.82" description="" id="Point01" url="{node12}" target="" tilt="-3.64" title="Living Space" skinid="ht_node"/>
+      <hotspot pan="-32.18" description="This home is located moments away from Lake Wailes Lake, Kawanis Park, and Historic Downtown Lake Wales.  It features original wood floors, 9 foot ceilings, and a private garden.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/leftfrontlandscape.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontcenter.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/garden.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/backyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;Call Joan Jarvis at Prime Plus Real Estate for more information at (863) 676-7040.&#xa;&#xa;See more photos of the property &lt;a href=&quot;http://www.primeplusrealestate.com/defaultlistings.x?IDX=0&amp;ListID=1033068&quot; target=&quot;_blank&quot;>HERE&lt;/a>" id="Point03" url="" target="" tilt="-2.37" title="Home Information" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node8">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="2.82183" overlap="1" height="1344" levelingpitch="1.58213" levelbiashidpi="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="1.58213" levelingroll="2.82183" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="180" fovmode="0">
-      <start tilt="-7.5169" projection="4" pan="138.153" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="138.153" fov="62.0442" tilt="-7.5169"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Front Patio" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:10 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:10 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Front Patio" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.77" url="{node6}" pan="177.92" title="Front Door" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-2.77" url="{node12}" pan="115.95" title="Living Space" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-3.13" url="" pan="146.68" title="Patio Information" description="The patio is a screened enclosure with tile floors, ceiling fan, and measures at 7 feet 10 inches by 17 feet 11 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontpatio.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="177.92" description="" id="Point01" url="{node6}" target="" tilt="-2.77" title="Front Door" skinid="ht_node"/>
+      <hotspot pan="115.95" description="" id="Point02" url="{node12}" target="" tilt="-2.77" title="Living Space" skinid="ht_node"/>
+      <hotspot pan="146.68" description="The patio is a screened enclosure with tile floors, ceiling fan, and measures at 7 feet 10 inches by 17 feet 11 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontpatio.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point03" url="" target="" tilt="-3.13" title="Patio Information" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node12">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.5" overlap="1" height="1344" levelingpitch="3" levelbiashidpi="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3" levelingroll="-0.5" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="270" fovmode="0">
-      <start tilt="-8.70155" projection="4" pan="-145.72" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-145.72" fov="62.0442" tilt="-8.70155"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Living Space" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:16 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:16 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Living Space" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-9" url="{node5}" pan="-171.18" title="Living Space 2" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="0.01" url="{node8}" pan="11.13" title="Front Patio" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="0.01" url="{node6}" pan="-17.66" title="Front Door" description="" target="" skinid="ht_node" id="Point03"/>
-      <hotspot tilt="4.41" url="" pan="56.27" title="Living Room" description="The living space is a sprawling 28 feet 6 inches by 14 feet 2 inches.  Complete with hardwood floors, a beautiful fireplace, and view of your own private garden.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/livingspace1.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/livingspacefulllength.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point04"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-171.18" description="" id="Point02" url="{node5}" target="" tilt="-9" title="Living Space 2" skinid="ht_node"/>
+      <hotspot pan="11.13" description="" id="Point01" url="{node8}" target="" tilt="0.01" title="Front Patio" skinid="ht_node"/>
+      <hotspot pan="-17.66" description="" id="Point03" url="{node6}" target="" tilt="0.01" title="Front Door" skinid="ht_node"/>
+      <hotspot pan="56.27" description="The living space is a sprawling 28 feet 6 inches by 14 feet 2 inches.  Complete with hardwood floors, a beautiful fireplace, and view of your own private garden.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/livingspace1.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/livingspacefulllength.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point04" url="" target="" tilt="4.41" title="Living Room" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node5">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0" overlap="1" height="1344" levelingpitch="3.7" levelbiashidpi="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.7" levelingroll="0" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="270" fovmode="0">
-      <start tilt="0" projection="4" pan="111.552" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="111.552" fov="62.0442" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Living Space 2" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:17 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:17 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Living Space 2" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.290001" url="{node12}" pan="4.42" title="Living Space" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="1.6" url="{node25}" pan="-81.66" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point03"/>
-      <hotspot tilt="-3.96" url="{node3}" pan="107.17" title="Dining Area" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-3.12" url="{node19}" pan="163.35" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point04"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="4.42" description="" id="Point01" url="{node12}" target="" tilt="0.290001" title="Living Space" skinid="ht_node"/>
+      <hotspot pan="-81.66" description="" id="Point03" url="{node25}" target="" tilt="1.6" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="107.17" description="" id="Point02" url="{node3}" target="" tilt="-3.96" title="Dining Area" skinid="ht_node"/>
+      <hotspot pan="163.35" description="" id="Point04" url="{node19}" target="" tilt="-3.12" title="Wing 1 Hallway " skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node3">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.5" overlap="1" height="1344" levelingpitch="3.1" levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.1" levelingroll="-0.5" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="-1.47492" projection="4" pan="168.526" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="168.526" fov="62.0442" tilt="-1.47492"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Dining Area" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:18 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:18 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Dining Area" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.56" url="{node9}" pan="-171.7" title="Kitchen" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="3.42" url="{node5}" pan="5.54" title="Living Space 2" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-1.82" url="" pan="118.72" title="Dining Room" description="The dining room has access to the private garden, and measures 12 feet 5 inches by 16 feet.  Plenty of room for holidays and family gatherings.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/diningarea.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-171.7" description="" id="Point01" url="{node9}" target="" tilt="-2.56" title="Kitchen" skinid="ht_node"/>
+      <hotspot pan="5.54" description="" id="Point02" url="{node5}" target="" tilt="3.42" title="Living Space 2" skinid="ht_node"/>
+      <hotspot pan="118.72" description="The dining room has access to the private garden, and measures 12 feet 5 inches by 16 feet.  Plenty of room for holidays and family gatherings.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/diningarea.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point03" url="" target="" tilt="-1.82" title="Dining Room" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node9">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.580584" overlap="1" height="1344" levelingpitch="2.28191" levelbiashidpi="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="2.28191" levelingroll="0.580584" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="-1.96569" projection="4" pan="-153.112" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-153.112" fov="62.0442" tilt="-1.96569"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Kitchen" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:20 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:20 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Kitchen" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.04" url="{node1}" pan="-71.17" title="Back Patio" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="0.34" url="{node3}" pan="-37.99" title="Dining Area" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-2.94" url="" pan="49.17" title="The Kitchen" description="The kitchen features floor to ceiling cabinets, tile counter tops and propane gas stove.  It is 12 feet 4 inches by 8 feet 10 inches, plenty of room to cook amazing meals for the family!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/kitchen.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-71.17" description="" id="Point02" url="{node1}" target="" tilt="1.04" title="Back Patio" skinid="ht_node"/>
+      <hotspot pan="-37.99" description="" id="Point01" url="{node3}" target="" tilt="0.34" title="Dining Area" skinid="ht_node"/>
+      <hotspot pan="49.17" description="The kitchen features floor to ceiling cabinets, tile counter tops and propane gas stove.  It is 12 feet 4 inches by 8 feet 10 inches, plenty of room to cook amazing meals for the family!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/kitchen.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point03" url="" target="" tilt="-2.94" title="The Kitchen" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node1">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.2" overlap="1" height="1344" levelingpitch="4.3" levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.3" levelingroll="0.2" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="2.47553" projection="4" pan="-57.6133" fov="62.0442"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-57.6133" fov="62.0442" tilt="2.47553"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Back Patio" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:21 PM" author="Round View Tours &amp; Development" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:21 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Round View Tours &amp; Development" tags="360 shots" title="Back Patio" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-5.74" url="{node17}" pan="-33.59" title="Wing 1 Bedroom" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="1.26" url="{node9}" pan="75.98" title="Kitchen" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="0.4" url="" pan="33.73" title="Back Patio" description="This secluded patio has access from the kitchen, and a bedroom.  It has a path to the rear carport, and measures 15 feet 5 inches by 7 feet 7 inches.  &#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/rearpatio.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-33.59" description="" id="Point01" url="{node17}" target="" tilt="-5.74" title="Wing 1 Bedroom" skinid="ht_node"/>
+      <hotspot pan="75.98" description="" id="Point02" url="{node9}" target="" tilt="1.26" title="Kitchen" skinid="ht_node"/>
+      <hotspot pan="33.73" description="This secluded patio has access from the kitchen, and a bedroom.  It has a path to the rear carport, and measures 15 feet 5 inches by 7 feet 7 inches.  &#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/rearpatio.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point03" url="" target="" tilt="0.4" title="Back Patio" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node19">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.5" overlap="1" height="1344" levelingpitch="5.7" levelbiashidpi="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="5.7" levelingroll="-0.5" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="180" fovmode="0">
-      <start tilt="-3.13059" projection="4" pan="118.693" fov="75.5069"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="118.693" fov="75.5069" tilt="-3.13059"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 1 Hallway " tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:22 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:22 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 1 Hallway " copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.41" url="{node18}" pan="2.54" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-1.6" url="{node15}" pan="107.54" title="Office Space" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-9.68" url="{node3}" pan="-119.98" title="Dining Area" description="" target="" skinid="ht_node" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="2.54" description="" id="Point02" url="{node18}" target="" tilt="0.41" title="Wing 1 Hallway " skinid="ht_node"/>
+      <hotspot pan="107.54" description="" id="Point01" url="{node15}" target="" tilt="-1.6" title="Office Space" skinid="ht_node"/>
+      <hotspot pan="-119.98" description="" id="Point03" url="{node3}" target="" tilt="-9.68" title="Dining Area" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node15">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.9" overlap="1" height="1344" levelingpitch="4.7" levelbiashidpi="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.7" levelingroll="-0.9" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="90" fovmode="0">
-      <start tilt="0" projection="4" pan="0" fov="70"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Office Space" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:23 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:23 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Office Space" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-3.84" url="{node19}" pan="-136.54" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="1.73" url="" pan="-36.84" title="Office Space" description="This room could be a bedroom, or office space.  It has access to the backyard and measures 12 feet by 10 feet.  The closet measures 2 feet 9 inches by 4 feet 10 inches, and has lots of space for storage!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/officespace.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point01"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-136.54" description="" id="Point02" url="{node19}" target="" tilt="-3.84" title="Wing 1 Hallway " skinid="ht_node"/>
+      <hotspot pan="-36.84" description="This room could be a bedroom, or office space.  It has access to the backyard and measures 12 feet by 10 feet.  The closet measures 2 feet 9 inches by 4 feet 10 inches, and has lots of space for storage!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/officespace.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point01" url="" target="" tilt="1.73" title="Office Space" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node18">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.6" overlap="1" height="1344" levelingpitch="3.8" levelbiashidpi="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.8" levelingroll="-0.6" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="180" fovmode="0">
-      <start tilt="-7.31399" projection="4" pan="62.3112" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="62.3112" fov="102.551" tilt="-7.31399"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 1 Hallway " tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:25 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:25 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 1 Hallway " copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-5.44" url="{node19}" pan="-175.2" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="2.19" url="{node14}" pan="5.8" title="Wing 1 Bathroom" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="1.06" url="{node17}" pan="57.24" title="Wing 1 Bedroom" description="" target="" skinid="ht_node" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-175.2" description="" id="Point01" url="{node19}" target="" tilt="-5.44" title="Wing 1 Hallway " skinid="ht_node"/>
+      <hotspot pan="5.8" description="" id="Point02" url="{node14}" target="" tilt="2.19" title="Wing 1 Bathroom" skinid="ht_node"/>
+      <hotspot pan="57.24" description="" id="Point03" url="{node17}" target="" tilt="1.06" title="Wing 1 Bedroom" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node14">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.8" overlap="1" height="1344" levelingpitch="3.5" levelbiashidpi="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.5" levelingroll="-0.8" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="90" fovmode="0">
-      <start tilt="-8.66121" projection="4" pan="-0.431208" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-0.431208" fov="102.551" tilt="-8.66121"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 1 Bathroom" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:26 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:26 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 1 Bathroom" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-4.08" url="{node18}" pan="91.67" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-3.57" url="" pan="19.6" title="Bathroom 1" description="The first of 2 bathrooms in this home, hase tile and a standing shower.  Measures 4 feet 10 inches by 7 feet 9 inches." target="" skinid="ht_info" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="91.67" description="" id="Point01" url="{node18}" target="" tilt="-4.08" title="Wing 1 Hallway " skinid="ht_node"/>
+      <hotspot pan="19.6" description="The first of 2 bathrooms in this home, hase tile and a standing shower.  Measures 4 feet 10 inches by 7 feet 9 inches." id="Point02" url="" target="" tilt="-3.57" title="Bathroom 1" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node17">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.8" overlap="1" height="1344" levelingpitch="4.2" levelbiashidpi="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.2" levelingroll="-0.8" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="3.63538" projection="4" pan="-61.4241" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-61.4241" fov="102.551" tilt="3.63538"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 1 Bedroom" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:25 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:25 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 1 Bedroom" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="2.07" url="{node18}" pan="32.39" title="Wing 1 Hallway " description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-10.6" url="{node1}" pan="-176.64" title="Back Patio" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="2.39" url="" pan="1.5" title="Bedroom 1" description="This bedroom has private access to the rear patio, and has 2 large closets and built in storage.  Measurements for the room are 10 feet by 14 feet 6 inches.  Closets are 2 feet 2 inches by 4 feet 6 inches each.  Plenty of storage for two.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom1.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom1closet.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="32.39" description="" id="Point01" url="{node18}" target="" tilt="2.07" title="Wing 1 Hallway " skinid="ht_node"/>
+      <hotspot pan="-176.64" description="" id="Point02" url="{node1}" target="" tilt="-10.6" title="Back Patio" skinid="ht_node"/>
+      <hotspot pan="1.5" description="This bedroom has private access to the rear patio, and has 2 large closets and built in storage.  Measurements for the room are 10 feet by 14 feet 6 inches.  Closets are 2 feet 2 inches by 4 feet 6 inches each.  Plenty of storage for two.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom1.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom1closet.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point03" url="" target="" tilt="2.39" title="Bedroom 1" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node25">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="1.3" overlap="1" height="1344" levelingpitch="5.4" levelbiashidpi="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="5.4" levelingroll="1.3" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="292.5" fovmode="0">
-      <start tilt="3.36906" projection="4" pan="-38.7576" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-38.7576" fov="102.551" tilt="3.36906"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Hallway" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:27 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:27 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Hallway" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.36" url="{node20}" pan="-54.91" title="Wing 2 Bathroom" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-5.35" url="{node23}" pan="-171.81" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point03"/>
-      <hotspot tilt="-16.69" url="{node5}" pan="124" title="Living Space 2" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="1.35" url="{node24}" pan="8.93" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point04"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-54.91" description="" id="Point02" url="{node20}" target="" tilt="1.36" title="Wing 2 Bathroom" skinid="ht_node"/>
+      <hotspot pan="-171.81" description="" id="Point03" url="{node23}" target="" tilt="-5.35" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="124" description="" id="Point01" url="{node5}" target="" tilt="-16.69" title="Living Space 2" skinid="ht_node"/>
+      <hotspot pan="8.93" description="" id="Point04" url="{node24}" target="" tilt="1.35" title="Wing 2 Hallway" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node23">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-0.4" overlap="1" height="1344" levelingpitch="4.4" levelbiashidpi="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.4" levelingroll="-0.4" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="292.5" fovmode="0">
-      <start tilt="-3.51846" projection="4" pan="-117.097" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-117.097" fov="102.551" tilt="-3.51846"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Hallway" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:28 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:28 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Hallway" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-8.21" url="{node21}" pan="-174.07" title="Wing 2 Bedroom 1" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-2.2" url="{node26}" pan="-67.35" title="Wing 2 Laundry" description="" target="" skinid="ht_node" id="Point02"/>
-      <hotspot tilt="-1.16" url="{node25}" pan="8.78" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point03"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-174.07" description="" id="Point01" url="{node21}" target="" tilt="-8.21" title="Wing 2 Bedroom 1" skinid="ht_node"/>
+      <hotspot pan="-67.35" description="" id="Point02" url="{node26}" target="" tilt="-2.2" title="Wing 2 Laundry" skinid="ht_node"/>
+      <hotspot pan="8.78" description="" id="Point03" url="{node25}" target="" tilt="-1.16" title="Wing 2 Hallway" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node21">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="-1.1" overlap="1" height="1344" levelingpitch="4.5" levelbiashidpi="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.5" levelingroll="-1.1" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="292.5" fovmode="0">
-      <start tilt="4.40312" projection="4" pan="137.844" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="137.844" fov="102.551" tilt="4.40312"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Bedroom 1" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:29 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:29 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Bedroom 1" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.72" url="{node23}" pan="11.2" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="1.73" url="" pan="-6.4" title="Bedroom 2" description="This room is very large, measuring 11 feet 5 inches by 16 feet 3 inches.  It also has a large closet 2 feet by 5 feet 8 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom2.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom2closet.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="11.2" description="" id="Point01" url="{node23}" target="" tilt="1.72" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="-6.4" description="This room is very large, measuring 11 feet 5 inches by 16 feet 3 inches.  It also has a large closet 2 feet by 5 feet 8 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom2.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bedroom2closet.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point02" url="" target="" tilt="1.73" title="Bedroom 2" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node26">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.3" overlap="1" height="1344" levelingpitch="4.6" levelbiashidpi="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="4.6" levelingroll="0.3" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="90" fovmode="0">
-      <start tilt="7.74415" projection="4" pan="42.2017" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="42.2017" fov="102.551" tilt="7.74415"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Laundry" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:29 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:29 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Laundry" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.04" url="{node23}" pan="-62.73" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="-10.56" url="" pan="-162" title="Laundry Room" description="Laundry room complete with hook ups and measuring 8 feet 4 inches by 8 feet 3 inches.&#xa;&#xa;&lt;img src=&quot;&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-62.73" description="" id="Point01" url="{node23}" target="" tilt="-1.04" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="-162" description="Laundry room complete with hook ups and measuring 8 feet 4 inches by 8 feet 3 inches.&#xa;&#xa;&lt;img src=&quot;&quot; width=&quot;100%&quot;>" id="Point02" url="" target="" tilt="-10.56" title="Laundry Room" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node20">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.5" overlap="1" height="1344" levelingpitch="3.7" levelbiashidpi="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.7" levelingroll="0.5" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="292.5" fovmode="0">
-      <start tilt="-24.1991" projection="4" pan="-42.8301" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-42.8301" fov="102.551" tilt="-24.1991"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Bathroom" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:30 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:30 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Bathroom" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.92" url="{node23}" pan="100.83" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="3.77" url="" pan="68.59" title="Bathroom 2" description="This beautiful bathroom has fresh tile, and fixtures and has plenty of space 6 feet 10 inches by 8 feet 5 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bathroom2.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="100.83" description="" id="Point01" url="{node23}" target="" tilt="1.92" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="68.59" description="This beautiful bathroom has fresh tile, and fixtures and has plenty of space 6 feet 10 inches by 8 feet 5 inches.&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/bathroom2.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point02" url="" target="" tilt="3.77" title="Bathroom 2" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node24">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.8" overlap="1" height="1344" levelingpitch="3.3" levelbiashidpi="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.3" levelingroll="0.8" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="270" fovmode="0">
-      <start tilt="1.02051" projection="4" pan="-3.6042" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-3.6042" fov="102.551" tilt="1.02051"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Hallway" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:31 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:31 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Hallway" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-5.67" url="{node23}" pan="-175.15" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="0.0399998" url="{node22}" pan="2.67" title="Wing 2 Bedroom 2" description="" target="" skinid="ht_node" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-175.15" description="" id="Point01" url="{node23}" target="" tilt="-5.67" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="2.67" description="" id="Point02" url="{node22}" target="" tilt="0.0399998" title="Wing 2 Bedroom 2" skinid="ht_node"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node22">
-    <input width="1344" leveltilesize="510" levelbias="0.400" levelingroll="0.7" overlap="1" height="1344" levelingpitch="3.5" levelbiashidpi="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1344" predecode="0" height="1344"/>
-      <level preload="0" width="672" predecode="0" height="672"/>
-      <level preload="1" width="336" predecode="1" height="336"/>
+    <input width="1344" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="3.5" levelingroll="0.7" height="1344" leveltilesize="510" levelbiashidpi="0.400" levelbias="0.400">
+      <level width="1344" preload="0" height="1344" predecode="0"/>
+      <level width="672" preload="0" height="672" predecode="0"/>
+      <level width="336" preload="1" height="336" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="6.38071" projection="4" pan="-66.1004" fov="102.551"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-      <min tilt="-90" pan="0" fov="5"/>
-      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fovfisheye="360" fov="120"/>
+      <start projection="4" pan="-66.1004" fov="102.551" tilt="6.38071"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" fov="120" tilt="90"/>
     </view>
-    <userdata customnodeid="" source="Prime Plus Real Estate" title="Wing 2 Bedroom 2" tags="360 shots" description="1136 Circle Drive Lake Wales, Florida 33853" latitude="" comment="" datetime="9/28/2017 3:32 PM" author="Prime Plus Realty" copyright="2017" longitude="" info="Contact Joan Jarvis @ (863) 676-7040"/>
+    <userdata datetime="9/28/2017 3:32 PM" info="Contact Joan Jarvis @ (863) 676-7040" latitude="" customnodeid="" comment="" description="1136 Circle Drive Lake Wales, Florida 33853" author="Prime Plus Realty" tags="360 shots" title="Wing 2 Bedroom 2" copyright="2017" longitude="" source="Prime Plus Real Estate"/>
     <hotspots width="180" wordwrap="1" height="20">
-      <label background="1" width="180" backgroundalpha="1" wordwrap="1" textcolor="0x000000" enabled="1" border="1" height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1"/>
-      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.48" url="{node24}" pan="-119.71" title="Wing 2 Hallway" description="" target="" skinid="ht_node" id="Point01"/>
-      <hotspot tilt="2.19" url="" pan="-92.29" title="Bedroom/Playroom" description="This is yet another large bedroom that comes with a large closet.  Measurements on the room are 13 feet by 12 feet.  The closet is 3 feet by 6 feet 6 inches.  All of the kids toys will fit in there!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/playroom.jpg?raw=true&quot; width=&quot;100%&quot;>" target="" skinid="ht_info" id="Point02"/>
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" borderradius="1" width="180" backgroundalpha="1" wordwrap="1" height="20" textcolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" borderalpha="1"/>
+      <hotspot pan="-119.71" description="" id="Point01" url="{node24}" target="" tilt="0.48" title="Wing 2 Hallway" skinid="ht_node"/>
+      <hotspot pan="-92.29" description="This is yet another large bedroom that comes with a large closet.  Measurements on the room are 13 feet by 12 feet.  The closet is 3 feet by 6 feet 6 inches.  All of the kids toys will fit in there!&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/playroom.jpg?raw=true&quot; width=&quot;100%&quot;>" id="Point02" url="" target="" tilt="2.19" title="Bedroom/Playroom" skinid="ht_info"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1" enabled="0" type="crossdissolve" softedge="0" zoomout="0" zoomin="0"/>
-    <autorotate delay="2.00" startloaded="1" useanimation="0" enabled="1" nodedelay="20.00" speed="0.100" returntohorizon="0.000" noderandom="0"/>
+    <transition enabled="0" softedge="0" zoomout="0" zoomspeed="2" zoomfov="20" zoomoutpause="1" blendtime="1" type="crossdissolve" zoomin="0" blendcolor="0x000000"/>
+    <autorotate nodedelay="20.00" startloaded="1" enabled="1" useanimation="0" noderandom="0" speed="0.100" delay="2.00" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" lockedkeyboardzoom="1" lockedwheel="0" invertcontrol="1" simulatemass="1" hideabout="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboard="0" invertwheel="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0">
-      <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
-      <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
+    <control simulatemass="1" contextprojections="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" speedwheel="1">
+      <menulink text="Round View Tours &amp; Development" url="http://www.roundviewtours.com"/>
+      <menulink text="Joan @ Prime Plus Real Estate" url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076"/>
     </control>
   </panorama>
 </tour>
