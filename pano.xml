@@ -19,13 +19,13 @@
       <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
       <hotspot id="Point02" tilt="-1.71" skinid="ht_node" pan="-79.54" description="" url="{node8}" target="" title="Front Patio"/>
       <hotspot id="Point01" tilt="-3.64" skinid="ht_node" pan="-12.82" description="" url="{node12}" target="" title="Living Space"/>
-      <hotspot id="Point03" tilt="-2.37" skinid="ht_info" pan="-32.18" description="This home is located moments away from Lake Wailes Lake, Kawanis Park, and Historic Downtown Lake Wales.  It features original wood floors, 9 foot ceilings, and a private garden.&#xa;&#xa;&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526.0644783371245!2d-81.56316518492072!3d27.89999458271245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd08ffe0ada273%3A0x1c933229ae99de92!2s1136+Circle+Dr%2C+Lake+Wales%2C+FL+33853!5e0!3m2!1sen!2sus!4v1506947115494&quot; width=&quot;250&quot; height=&quot;187&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen>&lt;/iframe>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/leftfrontlandscape.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontcenter.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/garden.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/backyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;Call Joan Jarvis at Prime Plus Real Estate for more information at (863) 676-7040.&#xa;&#xa;See more photos of the property &lt;a href=&quot;http://www.primeplusrealestate.com/defaultlistings.x?IDX=0&amp;ListID=1033068&quot; target=&quot;_blank&quot;>HERE&lt;/a>" url="" target="" title="Home Information"/>
+      <hotspot id="Point03" tilt="-2.37" skinid="ht_info" pan="-32.18" description="This home is located moments away from Lake Wailes Lake, Kawanis Park, and Historic Downtown Lake Wales.  It features original wood floors, 9 foot ceilings, and a private garden.&#xa;&#xa;&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526.0644783371245!2d-81.56316518492072!3d27.89999458271245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd08ffe0ada273%3A0x1c933229ae99de92!2s1136+Circle+Dr%2C+Lake+Wales%2C+FL+33853!5e0!3m2!1sen!2sus!4v1506947115494&quot; width=&quot;260&quot; height=&quot;187&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen>&lt;/iframe>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/leftfrontlandscape.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontcenter.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/frontyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/garden.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;&lt;img src=&quot;https://github.com/centelred/PrimePlusCircleDrive/blob/master/photos/backyard.jpg?raw=true&quot; width=&quot;100%&quot;>&#xa;&#xa;Call Joan Jarvis at Prime Plus Real Estate for more information at (863) 676-7040.&#xa;&#xa;See more photos of the property &lt;a href=&quot;http://www.primeplusrealestate.com/defaultlistings.x?IDX=0&amp;ListID=1033068&quot; target=&quot;_blank&quot;>HERE&lt;/a>" url="" target="" title="Home Information"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -55,7 +55,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -86,7 +86,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -117,7 +117,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -147,7 +147,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -177,7 +177,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -207,7 +207,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -237,7 +237,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -266,7 +266,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -296,7 +296,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -325,7 +325,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -355,7 +355,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -386,7 +386,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -416,7 +416,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -445,7 +445,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -474,7 +474,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -503,7 +503,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -532,7 +532,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
@@ -561,7 +561,7 @@
     <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" type="crossdissolve" zoomspeed="2" enabled="0" zoomout="0"/>
     <autorotate startloaded="1" delay="2.00" nodedelay="20.00" useanimation="0" noderandom="0" enabled="1" speed="0.100" returntohorizon="0.000"/>
     <animation useinautorotation="0" syncanimationwithvideo="0"/>
-    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="0" invertwheel="0" contextfullscreen="1" contextprojections="0">
+    <control sensitivity="8" simulatemass="1" lockedkeyboard="0" speedwheel="1" lockedmouse="0" rubberband="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="1" invertcontrol="1" lockedwheel="1" invertwheel="0" contextfullscreen="1" contextprojections="0">
       <menulink url="http://www.roundviewtours.com" text="Round View Tours &amp; Development"/>
       <menulink url="http://www.primeplusrealestate.com/StaffProfiles.aspx?ID=850076" text="Joan @ Prime Plus Real Estate"/>
     </control>
